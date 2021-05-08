@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codecool.CodecoolersEverywhere", "Codecool.CodecoolersEverywhere\Codecool.CodecoolersEverywhere.csproj", "{A984774A-0ED0-48CE-BB3D-6C3A3D7514C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A984774A-0ED0-48CE-BB3D-6C3A3D7514C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A984774A-0ED0-48CE-BB3D-6C3A3D7514C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A984774A-0ED0-48CE-BB3D-6C3A3D7514C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A984774A-0ED0-48CE-BB3D-6C3A3D7514C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD707E2-F3C3-4657-B146-E26F06B92E65}
+	EndGlobalSection
+EndGlobal
